@@ -2,7 +2,7 @@
 
 Hey there, I’m Moe Win.
 
-Veteran-turned-Cloud Engineer** | OMSA ’25 candidate | AWS Practitioner
+Veteran-turned-Cloud Engineer | OMSA ’25 candidate | AWS Practitioner
 
 Passionate about AWS, Python, and data-driven solutions. I blend disciplined problem-solving from my Army service with hands-on cloud expertise gained through the AWS re/Start program and real-world projects.
 
@@ -36,14 +36,5 @@ Passionate about AWS, Python, and data-driven solutions. I blend disciplined pro
 Feel free to reach out for collaborations or just a friendly chat about all things tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/**your-link**)  
-[![Email](https://img.shields.io/badge/Email-Me-darkgreen)](mailto:**your.email@example.com**)  
+[![Email](https://img.shields.io/badge/Email-Me-darkgreen)](mailto:moekyawwin@gmail.com)  
 🌍 Charlotte, NC · Always open to collaboration, mentoring, or a quick chat about AWS & AI.
-
-
-
-
-
-
-- 📫 moekyawwin@gmail.com
-
-
