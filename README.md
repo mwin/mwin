@@ -1,12 +1,47 @@
 
 
-Hello ! 
+Hey there, I’m Moe Win.
 
-Adaptable cloud computing and software development professional with a strong foundation in computer science and disciplined experience from military service.Proficient in Python, C++, and AWS services, with hands-on experience from the AWS re/Start program. Skilled in managing multiple projects and delivering high-quality, customer-focused solutions.Seeking to apply my expertise in cloud computing to drive impactful technology initiatives
+Veteran-turned-Cloud Engineer** | OMSA ’25 candidate | AWS Practitioner
 
-Through this GitHub, I aim to showcase my journey, share my projects, and collaborate with like-minded individuals. Let's connect and explore the endless possibilities that data and AI have to offer!
+Passionate about AWS, Python, and data-driven solutions. I blend disciplined problem-solving from my Army service with hands-on cloud expertise gained through the AWS re/Start program and real-world projects.
 
+---
+
+##  What I’m Working On
+
+- LeetCode & Systems Design | Daily DSA practice & architecture sketches  
+- AWS Builds | EC2, S3, Lambda, API Gateway, DynamoDB, CDK  
+- Data Projects | Exploratory analysis, ML pipelines, real-time dashboards  
+- Georgia Tech OMSA | Applying advanced analytics to cloud problems  
+
+
+
+## 📂 Featured Projects
+
+| Repo | What It Does |
+|------|--------------|
+| `aws-iot-monitoring` | Real-time IoT dashboard using Lambda + API Gateway + DynamoDB |
+| `customer-churn-prediction` | End-to-end ML pipeline predicting telecom churn |
+| `yolo-fish-classifier` | YOLO-based computer-vision model for fish species ID |
+| `leet-solutions` | Well-documented LeetCode/Python solutions with Big-O notes |
+| `resume-parser-api` | Flask API that extracts key résumé data & scores skills |
+
+*👉 [See all repositories »](https://github.com/mwin?tab=repositories)*
+
+
+##  Let’s Connect
+
+“Through this GitHub I document my journey, share projects, and connect with innovators who believe in turning ideas into impact.” 
 Feel free to reach out for collaborations or just a friendly chat about all things tech!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/**your-link**)  
+[![Email](https://img.shields.io/badge/Email-Me-darkgreen)](mailto:**your.email@example.com**)  
+🌍 Charlotte, NC · Always open to collaboration, mentoring, or a quick chat about AWS & AI.
+
+
+
+
 
 
 - 📫 moekyawwin@gmail.com
